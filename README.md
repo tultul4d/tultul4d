@@ -14,9 +14,9 @@
 <p>Email: **tultulakter963@gmail.com** | Phone: +8801630912143</p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tultul&show_icons=true&locale=en&layout=compact" alt="tultul" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tultul4d&show_icons=true&locale=en&layout=compact" alt="tultul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tultul&show_icons=true&locale=en" alt="tultul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tultul4d&show_icons=true&locale=en" alt="tultul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tultul&" alt="tultul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tultul4d&" alt="tultul" /></p>
 
