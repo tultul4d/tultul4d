@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Blood Donation](https://quiet-crisp-f52bfa.netlify.app/)
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express, MongoDB**
-- 💬 Ask me about **frontend development, HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Firebase.**
+- 💬 Ask me about **I’m a passionate frontend web developer with a strong foundation in HTML, CSS, JavaScript, and React. Currently, I’m expanding my skills in backend technologies like Node.js, Express.js, MongoDB, and Firebase, while also working with tools like React Router to build dynamic web applications.I’m currently pursuing a degree in Computer Science and Technology (CST) at Dhaka Mohila Polytechnic, where I’m in my 8th semester.**
 - 📫 How to reach me **tultulakter963@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
