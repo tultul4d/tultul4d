@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tultulakter963@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Email: tultulakter963@gmail.com  Phone : +8801630912143   </h3>
 <p align="left">
 </p>
 
